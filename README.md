@@ -1,0 +1,2 @@
+# Diabetes_Prediction_using_Classification_and_Ensemble_Learning_Technique
+ Diabetes Prediction System  This project presents an end-to-end diabetes risk prediction system using machine learning ensemble techniques combined with rule-based explainability. The system predicts the probability of diabetes based on user health parameters and explains the key contributing risk factors behind each prediction.
